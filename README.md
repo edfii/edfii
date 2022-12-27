@@ -1,3 +1,3 @@
-✌️Hi, I'm Edith.
-
-An IT-Consultant with a focus on UI/UX-Design and Frontend Development.
+✌️ Hi, I'm Edith. </br>
+👩‍💻 currently working as an IT-Consultant </br> 
+🎨 focused on UI/UX-Design and Frontend Development.
