@@ -1,6 +1,6 @@
 ✌️ Hi, I'm Edith. </br>
 👩‍💻 currently working as an IT-Consultant </br> 
-🎨 focused on UI/UX-Design and Frontend Development.
+🎨 focused on UI/UX-Design and Web Development.
 
 My Projects:
 - [Tell Me](https://edfii.github.io/tell-me/):  A simple question game, which helps you to have deeper conversations.
