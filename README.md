@@ -1,4 +1,4 @@
-✌️ Hi, 
+✌️ Hi, </br>
 👩‍💻 ich gestalte und entwickle digitale Produkte.</br>
 🎨 Mein Fokus liegt auf UI/UX-Design und Webentwicklung.
 
