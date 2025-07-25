@@ -1,8 +1,8 @@
-✌️ Hi, I'm Edith. </br>
-👩‍💻 currently working as an IT-Consultant </br> 
-🎨 focused on UI/UX-Design and Web Development.
+✌️ Hi, 
+👩‍💻 ich gestalte und entwickle digitale Produkte.</br>
+🎨 Mein Fokus liegt auf UI/UX-Design und Webentwicklung.
 
-My Projects:
-- [Tell Me](https://edfii.github.io/tell-me/):  A simple question game, which helps you to have deeper conversations.
-- [UX Card Game](https://edfii.github.io/UXcardGame/): A small application to learn the most important UX theories
-
+Meine Projekte:
+- [Tell Me](https://edfii.github.io/tell-me/): Eine Sammlung an Fragen, die dabei helfen tiefere Gespräche zu führen.
+- [UX Card Game](https://edfii.github.io/UXcardGame/): Ein kleines Lernspiel, um die wichtigsten UX Theorien zu lernen.
+- [Mind Tools](https://edfii.github.io/mindTools/): Eine Sammlung an Methoden, zur persönlichen Entwicklung.
